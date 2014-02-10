@@ -6,7 +6,7 @@ import GameLogic as G
 import GameKeys as K
 import Rasterizer as R
 import math
- 
+
 
 ## Car config ##
 suspensionLength = 0.4
@@ -22,7 +22,6 @@ friction = 8.0
 AttachHeightLocal = 0.0
 Stability = 0.07
 
-## This is called from the car object
 def carInit():
 
 	## setup aliases for Blender API access ##
@@ -92,6 +91,7 @@ def carInit():
 	vehicle.setTyreFriction(friction,1)
 	vehicle.setTyreFriction(friction,2)
 	vehicle.setTyreFriction(friction,3)
+
 
 
 ## called from main car object
@@ -165,8 +165,6 @@ def keyHandler():
 				G.car["force"]  = 15.0
 			if G.car["speed"] < -2.0:
 				G.car["force"]  = -15.0
-
-
 
 
 
@@ -276,8 +274,3 @@ def shadow():
 	ownpos = [-5.0,0.0,8.0]
 	pos = G.car.worldPosition
 	cont.owner.worldPosition = [pos[0]+ownpos[0], pos[1]+ownpos[1], pos[2]+ownpos[2]]
-
-
-#1 more commit line =D
-
-# another line for cumshot to gitHub
