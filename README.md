@@ -3,7 +3,7 @@ Easy start
 Download Game.rar
 extract the "Game" folder where it is convenient to you.
 In "Game" folder you found Beta1.0.exe. Just run and enjoy.
-If you use Linux you can play game ride in blender runing beta1.0.blend
+If you use Linux you can play game right in blender 3D, use beta1.0.blend
 
 After small intro wait until camera go closer to the car and you see special message like (Press space to continue)
 
