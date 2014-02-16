@@ -1,7 +1,7 @@
 Easy start
 ========
 Download Game.rar
-take the "Game" where it is convenient to you.
+extract the "Game" folder where it is convenient to you.
 In "Game" folder you found Beta1.0.exe. Just run and enjoy.
 If you use Linux you can play game ride in blender runing beta1.0.blend
 
