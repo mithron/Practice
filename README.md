@@ -2,8 +2,8 @@ Easy start
 ========
 Download Game.rar
 extract the "Game" folder where it is convenient to you.
-In "Game" folder you found Beta1.0.exe. Just run and enjoy.
-If you use Linux you can play game right in blender 3D, use beta1.0.blend
+In "Game" folder you found Game.exe. Just run and enjoy.
+If you use Linux you can play game right in blender 3D, use beta1.0.blend. This file located in Sourcefiles folder.
 
 After small intro wait until camera go closer to the car and you see special message like (Press space to continue)
 
