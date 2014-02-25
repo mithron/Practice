@@ -17,3 +17,8 @@ Controls:
 * 1,2,3,4,5 - Change cameras view
 
 If you enjoid my game you also can download source files and make some new thngs on your own.
+
+## Blender build guide
+
+Before build i recommend to chack external files  
+![Content Inventory](http://vk.com/doc7814446_274405423)
