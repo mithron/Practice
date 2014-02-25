@@ -21,4 +21,15 @@ If you enjoid my game you also can download source files and make some new thngs
 ## Blender build guide
 
 Before build i recommend to chack external files  
-![Content Inventory](http://vk.com/doc7814446_274405423)
+![Content Inventory](http://cs617523.vk.me/v617523446/4df4/Dp2KGqRTomo.jpg)
+
+To build .exe or .run file you must open user preferences menu use (Ctrl+alt+u) hotkey. Try it nd you will see something like this.
+Go to Addons tab in category list and select Game Engine. Check (Blender save game as runtime) and save user preferences.
+
+![Content Inventory](http://cs617523.vk.me/v617523446/4de4/1Jg2-TnFtcA.jpg)
+
+Now open File > Export > Save as Game engine runtime. If you receive error chack you external files 
+
+![Content Inventory](http://cs617523.vk.me/v617523446/4dec/EnU0ufWjy_g.jpg)
+
+Final step suppose to select output folder and give name for binary file.
