@@ -18,7 +18,7 @@ Controls:
 
 If you enjoid my game you also can download source files and make some new thngs on your own.
 
-## Blender build guide
+## Blender Game build guide
 
 Before build i recommend to chack external files  
 ![Content Inventory](http://cs617523.vk.me/v617523446/4df4/Dp2KGqRTomo.jpg)
