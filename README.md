@@ -20,7 +20,7 @@ If you enjoid my game you also can download source files and make some new thngs
 
 ## Blender Game build guide
 
-Before build i recommend to chack external files  
+First of all i recommend to chack external files  
 ![Content Inventory](http://cs617523.vk.me/v617523446/4df4/Dp2KGqRTomo.jpg)
 
 To build .exe or .run file you must open user preferences menu use (Ctrl+alt+u) hotkey. Try it nd you will see something like this.
